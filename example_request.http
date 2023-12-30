@@ -1,0 +1,14 @@
+GET http://127.0.0.1:5001/target-solution-api-test/us-central1/on_request_target_upload HTTP/1.1
+content-type: application/json
+
+{
+    "client_id":"asdasda",
+    "event_id":"asdkjaskl",
+    "data": [
+        {
+            "date":"12-29-202300:00:00.000",
+            "value": 500,
+            "tags": ["flight", "hotel"]
+        }
+    ]
+}

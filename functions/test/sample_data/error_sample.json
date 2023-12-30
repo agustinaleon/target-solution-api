@@ -1,0 +1,26 @@
+{
+    "client_id":"asdasda",
+    "event_id":"",
+    "data": [
+        {
+            "date":"12-29-202300:00:00.000",
+            "value": 500,
+            "tags": ["flights", "hotels"]
+        },
+        {
+            "date":"12-29-202301:00:00.000",
+            "value": "500",
+            "tags": null
+        },
+        {
+            "date":"12-29-202301:00:00.000",
+            "value": null,
+            "tags": ["flights"]
+        },
+        {
+            "date": null,
+            "value": "500",
+            "tags": null
+        }
+    ]
+}

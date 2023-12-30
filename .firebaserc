@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "target-solution-api-test"
+  }
+}
